@@ -18,16 +18,9 @@ Tenho 25 anos, moro em Brasília e atualmente estou cursando Análise e desenvol
 Sempre tento trazer esse meu lado para a programação. 
 Estou iniciando nesse universo e estou buscando aprender mais. :heartpulse:
 
-:books: Tenho estudado Javascript e iniciei meus estudo para desenvolvimento front-end.
+## :computer: Tecnologias e Ferramentas:
 
-:outbox_tray: Metas para 2022: criar novos projetos e encontrar um novo emprego.
-
-:musical_score: Nas horas vagas tento tocar ukulele 
-
-<br>
-<br>
-
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
 <img align="center" alt="Bia-Html" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="center" alt="Bia-Css" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="center" alt="Bia-Js" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -35,6 +28,15 @@ Estou iniciando nesse universo e estou buscando aprender mais. :heartpulse:
 <img align="center" alt="Bia-Git" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Bia-Github" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
+
+<br>
+<br>
+
+:books: Tenho estudado Javascript e iniciei meus estudo para desenvolvimento front-end.
+
+:outbox_tray: Metas para 2022: criar novos projetos e encontrar um novo emprego.
+
+:musical_score: Quando não estou estudando ou vendo animes, tento tocar ukulele
 
 <br>
 <br>
