@@ -1,16 +1,51 @@
-### Hi there 👋
+<img align="right" width="250px" style="margin-top: 60px" src="https://i.ibb.co/W3bMfcz/ezgif-com-gif-maker.gif">
 
-<!--
-**AnaBeat/AnaBeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
+<h1 align="left">Ana Beatriz</h1>
+<a href="mailto:abeatrizbcosta@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ana-beatriz-barros-costa/"><img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+## Oii, Devs!!
+
+Tenho 25 anos, moro em Brasília e atualmente estou cursando Análise e desenvolvimento de sistemas. Sou apaixonada pela cultura japonesa, coisas fofas e gatinhos.
+Sempre tento trazer esse meu lado para a programação. 
+Estou iniciando nesse universo e estou buscando aprender mais. :heartpulse:
+
+:books: Tenho estudado Javascript e iniciei meus estudo para desenvolvimento front-end.
+
+:outbox_tray: Metas para 2022: criar novos projetos e encontrar um novo emprego.
+
+:musical_score: Nas horas vagas tento tocar ukulele 
+
+<br>
+<br>
+
+<div align="center" style="display: inline_block">
+<img align="center" alt="Bia-Html" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img align="center" alt="Bia-Css" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img align="center" alt="Bia-Js" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="Bia-Python" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  />
+<img align="center" alt="Bia-Git" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="Bia-Github" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <a href="https://github.com/AnaBeat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaBeat&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBeat&layout=compact&langs_count=7&theme=bear"/>
+    
+</div>
+  
+<div align="center">
+ ![Snake animation](https://github.com/AnaBeat/AnaBeat/blob/output/github-contribution-grid-snake.svg)
+  </div> 
