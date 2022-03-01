@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top: 60px" src="https://ibb.co/4mHGnKj">
+<img align="right" width="250px" style="margin-top: 60px" src="https://i.ibb.co/TvsSxYH/gif-readme.gif">
 
 <br>
 <br>
