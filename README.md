@@ -14,7 +14,7 @@
 
 ## Oii, Devs!!
 
-Tenho 25 anos, moro em Brasília e atualmente estou cursando Análise e desenvolvimento de sistemas. Sou apaixonada pela cultura japonesa, coisas fofas e gatinhos.
+Tenho 26 anos, moro em Brasília e atualmente estou cursando Análise e desenvolvimento de sistemas. Sou apaixonada pela cultura japonesa, coisas fofas e gatinhos.
 Sempre tento trazer esse meu lado para a programação. 
 Estou iniciando nesse universo e estou buscando aprender mais. :heartpulse:
 
