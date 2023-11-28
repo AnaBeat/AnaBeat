@@ -14,7 +14,7 @@
 
 ## Oii, Devs!!
 
-Tenho 26 anos, moro em Brasília e atualmente estou cursando Análise e desenvolvimento de sistemas. Sou apaixonada pela cultura japonesa, coisas fofas e gatinhos.
+Tenho 27 anos, moro em Brasília e sou formada em Análise e desenvolvimento de sistemas. Sou apaixonada pela cultura japonesa, coisas fofas e gatinhos.
 Sempre tento trazer esse meu lado para a programação. 
 Estou iniciando nesse universo e estou buscando aprender mais. :heartpulse:
 
@@ -24,19 +24,21 @@ Estou iniciando nesse universo e estou buscando aprender mais. :heartpulse:
 <img align="center" alt="Bia-Html" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="center" alt="Bia-Css" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="center" alt="Bia-Js" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="center" alt="Bia-Python" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  />
 <img align="center" alt="Bia-Git" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Bia-Github" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="center" alt="Bia-Figma" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="center" alt="Bia-Bootstrap" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />  
+<img align="center" alt="Bia-React" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
 </div>
 
 <br>
 <br>
 
-:books: Tenho estudado Javascript e iniciei meus estudo para desenvolvimento front-end.
+:books: Tenho estudado React para aprimorar meus conhecimentos em desenvolvimento front-end.
 
-:outbox_tray: Metas para 2022: criar novos projetos e encontrar um novo emprego.
+:outbox_tray: Metas para 2024: encontrar um novo emprego.
 
-:musical_score: Quando não estou estudando ou vendo animes, tento tocar ukulele
+:musical_score: Quando não estou estudando, estou fazendo crochê ou vendo filmes de terror.
 
 <br>
 <br>
