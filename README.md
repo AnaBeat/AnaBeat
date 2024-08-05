@@ -2,7 +2,6 @@
 
 <div style="display: inline_block">
 <h1 align="left">Ana Beatriz</h1>
-<img align="right" width="250px" style="margin-top: 60px" src="https://i.ibb.co/mhkQW5Q/download20221100134023.png">
 <br>
 <br>
 <a href="mailto:abeatrizbcosta@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
