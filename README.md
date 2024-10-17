@@ -13,7 +13,7 @@
 
 ## Oii, Devs!!
 
-Tenho 27 anos, moro em Brasília e sou formada em Análise e desenvolvimento de sistemas. Sou apaixonada pela cultura japonesa, coisas fofas e gatinhos.
+Tenho 28 anos, moro em Brasília e sou formada em Análise e desenvolvimento de sistemas. Sou apaixonada pela cultura japonesa, coisas fofas e gatinhos.
 Sempre tento trazer esse meu lado para a programação. 
 Estou iniciando nesse universo e estou buscando aprender mais. :heartpulse:
 
