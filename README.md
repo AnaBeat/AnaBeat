@@ -13,7 +13,7 @@
 
 ## Oii, Devs!!
 
-Tenho 28 anos, moro em Brasília e sou formada em Análise e desenvolvimento de sistemas. Sou apaixonada pela cultura japonesa, coisas fofas e gatinhos.
+Tenho 30 anos, moro em Brasília e sou formada em Análise e desenvolvimento de sistemas. Sou apaixonada pela cultura japonesa, coisas fofas e gatinhos.
 Sempre tento trazer esse meu lado para a programação. 
 Estou iniciando nesse universo e estou buscando aprender mais. :heartpulse:
 
@@ -35,7 +35,7 @@ Estou iniciando nesse universo e estou buscando aprender mais. :heartpulse:
 
 :books: Tenho estudado React para aprimorar meus conhecimentos em desenvolvimento front-end.
 
-:outbox_tray: Metas para 2024: encontrar um novo emprego.
+:outbox_tray: Metas para 2026: encontrar um novo emprego.
 
 :musical_score: Quando não estou estudando, estou fazendo crochê ou vendo filmes de terror.
 
